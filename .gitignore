@@ -2,3 +2,13 @@ node_modules
 .DS_Store
 
 code/03 React Essentials/03-using-outputting-dynamic-values/.idea/
+
+code/03 React Essentials/04-html-attributes-dynamically-image-files/.idea/
+
+code/03 React Essentials/06-alternative-props-syntax/.idea/
+
+code/03 React Essentials/03-using-outputting-dynamic-values/package-lock.json
+
+code/03 React Essentials/04-html-attributes-dynamically-image-files/package-lock.json
+
+code/03 React Essentials/06-alternative-props-syntax/package-lock.json
